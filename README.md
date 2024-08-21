@@ -1,8 +1,10 @@
 # Programas de la materia de Computación Aplicada
 
 ## Actividad 1
-- Programa 1
-- Programa 2
+- p01-hola-mundo
+- p02-area-circulo
+- p03-area-triangulo
+- p04-paga-trabajador
 
 ## Actividad 2
 - Programa 3
