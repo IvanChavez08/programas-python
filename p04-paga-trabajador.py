@@ -5,7 +5,7 @@ print("Calculando la paga de un trabajador : \n")
 nombre = input("Dame tu nombre ")
 horas = int(input("Horas ? "))
 paga = float(input("Paga x hora ? "))
-tasa = 0.3
+tasa = 0.03
 
 pagabruta = horas * paga
 impuesto = pagabruta * tasa
