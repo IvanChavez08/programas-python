@@ -26,5 +26,5 @@ elif promedio >= 9 and promedio <= 10:
 else:
     mensaje = "Calificación fuera del rango"
 
-# Mostrar el promedio y el mensaje
+
 print(f"Promedio: {promedio:.2f}, {mensaje}")
