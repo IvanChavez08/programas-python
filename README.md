@@ -34,3 +34,18 @@
 - p20-ley-de-newton
 - p21-aceptar-estudiante
 - p22-tipo-angulo
+
+# Tarea 2 - Ejecución condicional
+- p23-numeros-consecutivos
+- p24-numero-mayor
+- p25-dia-de-la-semana
+- p26-numeros-romanos
+- p27-calculo-de-notas
+- p28-aceptar-estudiante-v2
+
+# Actividad 6
+- p29-numeros-1-100
+- p30-numeros-100-1
+- p31-numeros-1-200-10
+- p32-numeros-suma-100
+- p33-conteo-numeros
