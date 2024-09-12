@@ -1,6 +1,5 @@
 #Verificar si un numero es positivo, negativo o cero
-import os; os.system("clear0
-                ")
+import os; os.system("clear")
 
 print("Verificar si un numero es positivo, negativo o cero ")
 
