@@ -68,7 +68,7 @@
 # Primer examen parcial
 - p45-primer-examen-parcial
 
-# Ejecución repetitiva-p3-for
+# Actividad 8 - Ejecución repetitiva-p3-for
 - p46-numeros-1-100
 - p46-numeros-1-100-v2
 - p46-numeros-1-100-v3
@@ -80,3 +80,11 @@
 - p50-suma-numeros
 - p51-multiplos-suma
 - p52-base-exponente
+
+# Actividad 9 - Ejecución repetitiva-p4
+- p53-factorial
+- p54-tabla-multiplicar
+- p55-tablas-multiplicar
+- p56-piramide-caracter
+- p57-factorial-numeros
+- p58-combina-colores
