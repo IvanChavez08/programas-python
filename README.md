@@ -117,3 +117,11 @@
 - p77-listas-aleatorias-suma
 - p78-ciudades
 - p79-lista-impares
+
+# Actividad 12 - Diccionarios Parte 1
+- p80-estudiante
+- p81-calificaciones
+- p82-nombres-y-edades
+- p83-conversion-medida
+- p84-conversion-moneda
+- p85-calcular-areas
