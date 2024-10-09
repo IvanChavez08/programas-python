@@ -124,4 +124,10 @@
 - p82-nombres-y-edades
 - p83-conversion-medida
 - p84-conversion-moneda
-- p85-calcular-areas
+
+# Actividad 13 - Diccionarios Parte 2
+- p85-procesar-pizza
+- p86-lista-dic-auto
+- p87-lista-dic-estudiante
+- p88-cliente-productos
+- p89-area-figuras
