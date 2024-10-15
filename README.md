@@ -143,3 +143,7 @@
 # Actividad 14 - Conjuntos
 - p96-trabajando-conjuntos
 - p97-operaciones-conjuntos
+
+# Tarea 7 - Conjuntos
+- p98-personas
+- p99-numero
