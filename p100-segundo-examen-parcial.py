@@ -1,6 +1,5 @@
 # Segundo examen parcial - Computación Aplicada - MITA - Iván Neftalí Chávez Flores 
 
-
 import os; os.system("clear")
 
 print("Mueblería Muebles Dico")
