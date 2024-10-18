@@ -150,6 +150,3 @@
 
 # 17 - Segundo examen parcial
 - p100-segundo-examen-parcial
-
-# Tarea 9 - Conjuntos
-- p102-personassssssss
