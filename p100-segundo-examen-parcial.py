@@ -1,4 +1,4 @@
-# Segundo examen parcial - Computación Aplicada - MITA - Iván Neftalí Chávez Flores
+# Segundo examen parcial - Computación Aplicada - MITA - Iván Neftalí Chávez Flores 
 
 import os; os.system("clear")
 
