@@ -195,3 +195,6 @@
 - p135-empleado2
 - p136-circulo
 - p137-rectangulo
+
+# Tarea 9 - Prog Orientada a Objetos - Parte 1
+- p138-articulo
