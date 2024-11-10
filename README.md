@@ -201,3 +201,6 @@
 
 # Actividad 18 - Prog Orientada a Objetos - Parte 2
 - p139-ventas
+
+# 22 - Tercer Examen Parcial
+- p140-tecer-examen-parcial
